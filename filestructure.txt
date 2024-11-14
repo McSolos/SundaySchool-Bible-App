@@ -1,0 +1,131 @@
+|-- %ProgramData%
+    |-- Microsoft
+        |-- Windows
+            |-- UUS
+                |-- State
+                    |-- _active.uusver
+|-- .expo
+    |-- devices.json
+    |-- packager-info.json
+    |-- README.md
+    |-- settings.json
+    |-- web
+|-- .gitattributes
+|-- .gitignore
+|-- android
+    |-- .gitignore
+    |-- app
+        |-- build.gradle
+        |-- debug.keystore
+        |-- proguard-rules.pro
+        |-- src
+            |-- debug
+                |-- AndroidManifest.xml
+            |-- main
+                |-- AndroidManifest.xml
+                |-- assets
+                    |-- databases
+                        |-- kjv.sqlite
+                |-- java
+                    |-- com
+                        |-- bibleapp
+                            |-- MainActivity.kt
+                            |-- MainApplication.kt
+                |-- res
+                    |-- drawable
+                        |-- rn_edit_text_material.xml
+                        |-- splashscreen.xml
+                        |-- splashscreen_image.png
+                    |-- mipmap-hdpi
+                        |-- ic_launcher.png
+                        |-- ic_launcher_round.png
+                    |-- mipmap-mdpi
+                        |-- ic_launcher.png
+                        |-- ic_launcher_round.png
+                    |-- mipmap-xhdpi
+                        |-- ic_launcher.png
+                        |-- ic_launcher_round.png
+                    |-- mipmap-xxhdpi
+                        |-- ic_launcher.png
+                        |-- ic_launcher_round.png
+                    |-- mipmap-xxxhdpi
+                        |-- ic_launcher.png
+                        |-- ic_launcher_round.png
+                    |-- values
+                        |-- colors.xml
+                        |-- strings.xml
+                        |-- styles.xml
+    |-- build.gradle
+    |-- gradle
+        |-- wrapper
+            |-- gradle-wrapper.jar
+            |-- gradle-wrapper.properties
+    |-- gradle.properties
+    |-- gradlew
+    |-- gradlew.bat
+    |-- react-settings-plugin
+        |-- build.gradle.kts
+        |-- src
+            |-- main
+                |-- kotlin
+                    |-- expo
+                        |-- plugins
+                            |-- ReactSettingsPlugin.kt
+    |-- settings.gradle
+|-- App.js
+|-- app.json
+|-- assets
+    |-- adaptive-icon.png
+    |-- databases
+    |-- favicon.png
+    |-- icon.png
+    |-- kjv.sqlite
+    |-- splash.png
+|-- babel.config.js
+|-- databases.js
+|-- index.js
+|-- ios
+    |-- .gitignore
+    |-- .xcode.env
+    |-- bibleapp
+        |-- AppDelegate.h
+        |-- AppDelegate.mm
+        |-- Images.xcassets
+            |-- AppIcon.appiconset
+                |-- Contents.json
+            |-- Contents.json
+            |-- SplashScreen.imageset
+                |-- Contents.json
+                |-- splashscreen.png
+            |-- SplashScreenBackground.imageset
+                |-- background.png
+                |-- Contents.json
+        |-- Info.plist
+        |-- main.m
+        |-- SplashScreen.storyboard
+        |-- Supporting
+            |-- Expo.plist
+    |-- bibleapp.xcodeproj
+        |-- project.pbxproj
+        |-- project.xcworkspace
+            |-- contents.xcworkspacedata
+            |-- xcshareddata
+                |-- IDEWorkspaceChecks.plist
+        |-- xcshareddata
+            |-- xcschemes
+                |-- bibleapp.xcscheme
+    |-- Podfile
+    |-- Podfile.properties.json
+|-- metro.config.js
+|-- package-lock.json
+|-- package.json
+|-- screens
+    |-- BibleReadingScreen.js
+    |-- BookmarksAndFavouritesScreen.js
+    |-- ChapterDetailsScreen.js
+    |-- home.js
+    |-- NewTestamentScreen.js
+    |-- NotesScreen.js
+    |-- OldTestamentScreen.js
+    |-- SettingsScreen.js
+    |-- VerseSearchResultScreen.js
