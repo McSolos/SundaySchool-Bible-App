@@ -119,6 +119,7 @@
 |-- metro.config.js
 |-- package-lock.json
 |-- package.json
+|-- README.md
 |-- screens
     |-- BibleReadingScreen.js
     |-- BookmarksAndFavouritesScreen.js
